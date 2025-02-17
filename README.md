@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## WakaTime Stats
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=canolayoo78&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Coding Time" width="571px" />
 
 ## Projects
@@ -20,4 +22,3 @@ Here are some ideas to get you started:
 ## Education
 
 ## Studies
-
